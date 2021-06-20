@@ -1,0 +1,11 @@
+.forgot_password_form_container {
+	max-width: 450px;
+	margin: 100px auto 126px;
+	position: relative;
+	z-index: 1;
+	background: #fff;
+	border-radius: 6px;
+	padding: 10px 45px 30px;
+	box-shadow: 0 3.2px 7.2px 0 var(--callout-shadow-color, rgba(0, 0, 0, 0.132)),
+		0 0.6px 1.8px 0 var(--callout-shadow-secondary-color, rgba(0, 0, 0, 0.108));
+}

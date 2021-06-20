@@ -1,0 +1,20 @@
+html,
+body,
+#root {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+}
+
+.ant-btn-primary {
+	color: #fff;
+	border-radius: 5px;
+}
+
+input[type='text'],
+.ant-input-password,
+.ant-select-selector {
+	border-radius: 5px;
+}

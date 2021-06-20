@@ -1,0 +1,17 @@
+export default {
+	'page.role.management.search.form.name': 'Role Name',
+	'page.role.management.search.form.search.button': 'Search',
+	'page.role.management.search.form.reset.button': 'Reset',
+	'page.role.management.action.create.button': 'New',
+	'page.role.management.action.delete.button': 'Delete',
+	'page.role.management.action.edit.button': 'Edit',
+	'page.role.management.table.header.name': 'Role Name',
+	'page.role.management.table.header.action': 'Action',
+	'page.role.management.pop.confirm.title': 'Are you sure delete this item?',
+	'page.role.management.role.form.name': 'Role Name',
+	'page.role.management.role.form.name.required': 'Please input role name',
+	'page.role.management.role.form.displayName': 'Role Display Name',
+	'page.role.management.role.form.permissions': 'Permissions',
+	'page.role.management.role.form.permissions.required': 'Please select permissions',
+	'page.role.management.role.form.description': 'Description',
+};
